@@ -1,0 +1,3 @@
+name,address,phonenumber,boarding,destination,date_of_boarding,ticketclass,number_of_seats,train_number,total_fare,pnr
+Sakara,Chennai,7397240778,chennai,delhi,12/3/2026,1st,3,123,3600,76854382
+Raphael,Ashok nagar,128031983,chennai,delhi,12/3/26,1st,2,123,2400,65947894

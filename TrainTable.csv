@@ -1,0 +1,3 @@
+train_no,train_name,stoppages,class
+123,abc trains,delhi|bombay|chennai|jaipur,1st:1200|2nd:1000
+256,fg trains,delhi|canada|chennai|jaipur,1st:1200|2nd:1000
